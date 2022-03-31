@@ -1,1 +1,3 @@
-# Sample-App
+# maven-project
+
+Simple Maven Project
